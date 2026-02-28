@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 40px;
     border-radius: 15px;
     width: 400px;
@@ -24,18 +24,18 @@ body {
 }
 
 h1 {
-    color: #4e73df;
+    color: #000000;
     margin-bottom: 15px;
 }
 
 h2 {
     margin-top: 20px;
-    color: #1cc88a;
+    color: #000000;
 }
 
 p {
     margin: 10px 0;
-    color: #555;
+    color: #383838;
 }
 
 
